@@ -1,0 +1,14 @@
+{
+  "name": "discord-bot-server",
+  "version": "1.0.0",
+  "description": "A Discord bot hosted on my BMAX Mini PC",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
